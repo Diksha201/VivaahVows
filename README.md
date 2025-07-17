@@ -15,7 +15,9 @@ Authentication: JWT, Bcrypt
 Deployment: (Optional: Vercel for frontend, Render/Heroku for backend, MongoDB Atlas for DB)
 
 # ✨ Features
-🧑‍🤝‍🧑 Customer Panel: Search and filter vendors based on service and location
+
+# 🧑‍🤝‍🧑 Customer Panel: 
+Search and filter vendors based on service and location
 
 View vendor profiles, pricing, and availability
 
@@ -25,19 +27,22 @@ Payment integration for service booking
 
 Dashboard for managing bookings
 
-🧑‍🔧 Vendor Panel: Sign up / log in as vendor
+# 🧑‍🔧 Vendor Panel: 
+Sign up / log in as vendor
 
 Add and manage services, availability, and pricing
 
 View bookings and customer details
 
-🧑‍💼 Admin Panel: Approve vendor listings
+# 🧑‍💼 Admin Panel: 
+Approve vendor listings
 
 Monitor bookings and payments
 
 Manage user data and reported issues
 
-# 📍 Additional Features: Location-based service filtering
+# 📍 Additional Features: 
+Location-based service filtering
 
 Responsive design for mobile and desktop
 
