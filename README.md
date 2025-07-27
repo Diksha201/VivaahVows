@@ -53,7 +53,7 @@ Booking confirmation via email or WhatsApp
 Modern UI using Tailwind CSS
 
 # 🖼️ Image Credits
-All property images are sourced from Unsplash. Copyright belongs to their respective photographers.
+All property images are sourced from Unsplash and Pinterest. Copyright belongs to their respective photographers.
 
 # 📈 Future Improvements
 Google Maps integration for dynamic location suggestions
