@@ -1,0 +1,7 @@
+{
+  "name": "vivaahvows",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd client && npm install && npm run build"
+  }
+}
